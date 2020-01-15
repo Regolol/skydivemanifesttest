@@ -1,0 +1,23 @@
+{
+  "login": {
+    "title": {
+      "morning": "Guten Morgen,",
+      "noon": "Guten Mittag,",
+      "afternoon": "Guten Nachmittag,",
+      "evening": "Guten Abend,",
+      "other": "Hallo,"
+    },
+    "subtitle": "willkommen zurück!",
+    "imageAuthor": "Foto von {author} auf {platform}",
+    "formHeader": "Bitte melden Sie sich an.",
+    "username": {
+      "label": "Benutzername",
+      "placeholder": "Geben Sie Ihren Benutzernamen ein..."
+    },
+    "password": {
+      "label": "Passwort",
+      "placeholder": "Geben Sie Ihr Passwort ein..."
+    },
+    "signIn": "Anmelden"
+  }
+}

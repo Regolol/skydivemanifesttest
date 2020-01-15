@@ -1,10 +1,13 @@
 // Import Skydivemanifest theme
-@import 'theme';
+@import 'themes/default/varibales';
 
 // Import Bootstrap
 @import '../../../node_modules/bootstrap/scss/bootstrap';
 
-// Import Skydivemanifest scss and bootstrap overwrites
-@import 'overwrites';
-@import 'general';
-@import 'login';
+// Import Skydivemanifests additional scss and bootstrap overwrites
+@import 'themes/default/overrides';
+@import 'themes/default/general';
+
+// Import Layouts
+@import 'themes/default/layouts/default';
+@import 'themes/default/layouts/welcome';

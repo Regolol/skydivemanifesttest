@@ -9,3 +9,9 @@ label {
     margin-bottom: $label-span-margin-bottom;
   }
 }
+
+::-webkit-input-placeholder,
+:-ms-input-placeholder,
+::placeholder {
+  color: rgba($body-color, .7) !important;
+}
