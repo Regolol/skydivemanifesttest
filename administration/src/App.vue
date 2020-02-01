@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Vue from 'vue';
+import Vue from 'vue'
 
 // Import Layouts
 import DefaultLayout from '@/components/layouts/DefaultLayout';
